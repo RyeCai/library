@@ -1,0 +1,17 @@
+#topbar {
+  display: flex;
+  width: 100%;
+  height: 20px;
+  position: fixed;
+  box-shadow: 0px 8px black;
+  background: rgb(56, 128, 56);
+}
+
+#shelf {
+
+}
+
+.panel {
+  width: 100%;
+
+}
